@@ -1,0 +1,6 @@
+[submodule "mtransit-for-android"]
+	path = mtransit-for-android
+	url = git@github.com:mtransitapps/mtransit-for-android.git
+[submodule "commons-android"]
+	path = commons-android
+	url = git@github.com:mtransitapps/commons-android.git
