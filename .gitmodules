@@ -10,3 +10,21 @@
 [submodule "ca-montreal-stm-bus-android"]
 	path = ca-montreal-stm-bus-android
 	url = git@github.com:mtransitapps/ca-montreal-stm-bus-android.git
+[submodule "ca-montreal-bixi-bike-android"]
+	path = ca-montreal-bixi-bike-android
+	url = git@github.com:mtransitapps/ca-montreal-bixi-bike-android.git
+[submodule "ca-montreal-amt-train-android"]
+	path = ca-montreal-amt-train-android
+	url = git@github.com:mtransitapps/ca-montreal-amt-train-android.git
+[submodule "ca-montreal-amt-bus-android"]
+	path = ca-montreal-amt-bus-android
+	url = git@github.com:mtransitapps/ca-montreal-amt-bus-android.git
+[submodule "ca-longueuil-rtl-bus-android"]
+	path = ca-longueuil-rtl-bus-android
+	url = git@github.com:mtransitapps/ca-longueuil-rtl-bus-android.git
+[submodule "ca-laval-stl-bus-android"]
+	path = ca-laval-stl-bus-android
+	url = git@github.com:mtransitapps/ca-laval-stl-bus-android.git
+[submodule "ca-laurentides-citla-bus-android"]
+	path = ca-laurentides-citla-bus-android
+	url = git@github.com:mtransitapps/ca-laurentides-citla-bus-android.git

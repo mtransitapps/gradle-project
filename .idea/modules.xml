@@ -2,6 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ca-laurentides-citla-bus-android/ca-laurentides-citla-bus-android.iml" filepath="$PROJECT_DIR$/ca-laurentides-citla-bus-android/ca-laurentides-citla-bus-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ca-laval-stl-bus-android/ca-laval-stl-bus-android.iml" filepath="$PROJECT_DIR$/ca-laval-stl-bus-android/ca-laval-stl-bus-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ca-longueuil-rtl-bus-android/ca-longueuil-rtl-bus-android.iml" filepath="$PROJECT_DIR$/ca-longueuil-rtl-bus-android/ca-longueuil-rtl-bus-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ca-montreal-amt-bus-android/ca-montreal-amt-bus-android.iml" filepath="$PROJECT_DIR$/ca-montreal-amt-bus-android/ca-montreal-amt-bus-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ca-montreal-amt-train-android/ca-montreal-amt-train-android.iml" filepath="$PROJECT_DIR$/ca-montreal-amt-train-android/ca-montreal-amt-train-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ca-montreal-bixi-bike-android/ca-montreal-bixi-bike-android.iml" filepath="$PROJECT_DIR$/ca-montreal-bixi-bike-android/ca-montreal-bixi-bike-android.iml" />
       <module fileurl="file://$PROJECT_DIR$/ca-montreal-stm-bus-android/ca-montreal-stm-bus-android.iml" filepath="$PROJECT_DIR$/ca-montreal-stm-bus-android/ca-montreal-stm-bus-android.iml" />
       <module fileurl="file://$PROJECT_DIR$/ca-montreal-stm-subway-android/ca-montreal-stm-subway-android.iml" filepath="$PROJECT_DIR$/ca-montreal-stm-subway-android/ca-montreal-stm-subway-android.iml" />
       <module fileurl="file://$PROJECT_DIR$/commons-android/commons-android.iml" filepath="$PROJECT_DIR$/commons-android/commons-android.iml" />

@@ -1,4 +1,10 @@
 include ':mtransit-for-android', // main Android app
         ':commons-android', // common code shared by all Android apps
+        ':ca-laurentides-citla-bus-android', // Laurentides CIT Bus for Android
+        ':ca-laval-stl-bus-android', // Laval STL Bus for Android
+        ':ca-longueuil-rtl-bus-android', // Longueuil RTL Bus for Android
+        ':ca-montreal-amt-bus-android', // Montreal AMT Bus for Android
+        ':ca-montreal-amt-train-android', // Montreal AMT Train for Android
+        ':ca-montreal-bixi-bike-android', // Montreal BIXI Bike for Android
         ':ca-montreal-stm-bus-android', // Montreal STM Bus for Android
         ':ca-montreal-stm-subway-android' // Montreal STM Subway for Android

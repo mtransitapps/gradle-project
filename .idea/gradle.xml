@@ -8,6 +8,12 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/ca-laurentides-citla-bus-android" />
+            <option value="$PROJECT_DIR$/ca-laval-stl-bus-android" />
+            <option value="$PROJECT_DIR$/ca-longueuil-rtl-bus-android" />
+            <option value="$PROJECT_DIR$/ca-montreal-amt-bus-android" />
+            <option value="$PROJECT_DIR$/ca-montreal-amt-train-android" />
+            <option value="$PROJECT_DIR$/ca-montreal-bixi-bike-android" />
             <option value="$PROJECT_DIR$/ca-montreal-stm-bus-android" />
             <option value="$PROJECT_DIR$/ca-montreal-stm-subway-android" />
             <option value="$PROJECT_DIR$/commons-android" />
