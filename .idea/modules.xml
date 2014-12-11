@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MT.iml" filepath="$PROJECT_DIR$/MT.iml" />
-      <module fileurl="file://$PROJECT_DIR$/commons-android-dev/commons-android-dev.iml" filepath="$PROJECT_DIR$/commons-android-dev/commons-android-dev.iml" />
-      <module fileurl="file://$PROJECT_DIR$/mtransit-for-android-dev/mtransit-for-android-dev.iml" filepath="$PROJECT_DIR$/mtransit-for-android-dev/mtransit-for-android-dev.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commons-android/commons-android.iml" filepath="$PROJECT_DIR$/commons-android/commons-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mtransit-for-android/mtransit-for-android.iml" filepath="$PROJECT_DIR$/mtransit-for-android/mtransit-for-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mtransitapps-gradle-project.iml" filepath="$PROJECT_DIR$/mtransitapps-gradle-project.iml" />
     </modules>
   </component>
 </project>

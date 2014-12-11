@@ -31,3 +31,7 @@ proguard/
 /.idea/libraries
 .DS_Store
 /build
+
+keys.properties
+custom_local.properties
+runall.sh
