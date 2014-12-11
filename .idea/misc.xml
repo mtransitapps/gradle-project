@@ -5,7 +5,7 @@
     <option name="formatter" value="ECLIPSE" />
     <option name="id" value="1409320050403" />
     <option name="name" value="default" />
-    <option name="pathToConfigFileJava" value="$PROJECT_DIR$/commons-android-dev/eclipse-formatting.xml" />
+    <option name="pathToConfigFileJava" value="$PROJECT_DIR$/commons-android/eclipse-formatting.xml" />
     <option name="selectedJavaProfile" value="MT" />
   </component>
   <component name="EntryPointsManager">
