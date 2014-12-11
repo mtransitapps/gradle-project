@@ -3,6 +3,8 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ca-montreal-stm-bus-android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ca-montreal-stm-subway-android" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/commons-android" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/mtransit-for-android" vcs="Git" />
   </component>

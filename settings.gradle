@@ -1,1 +1,4 @@
-include ':mtransit-for-android', ':commons-android'
+include ':mtransit-for-android', // main Android app
+        ':commons-android', // common code shared by all Android apps
+        ':ca-montreal-stm-bus-android', // Montreal STM Bus for Android
+        ':ca-montreal-stm-subway-android' // Montreal STM Subway for Android
