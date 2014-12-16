@@ -28,3 +28,6 @@
 [submodule "ca-laurentides-citla-bus-android"]
 	path = ca-laurentides-citla-bus-android
 	url = git@github.com:mtransitapps/ca-laurentides-citla-bus-android.git
+[submodule "ca-roussillon-citrous-bus-android"]
+	path = ca-roussillon-citrous-bus-android
+	url = git@github.com:mtransitapps/ca-roussillon-citrous-bus-android.git
