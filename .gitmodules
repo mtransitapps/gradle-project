@@ -31,3 +31,9 @@
 [submodule "ca-roussillon-citrous-bus-android"]
 	path = ca-roussillon-citrous-bus-android
 	url = git@github.com:mtransitapps/ca-roussillon-citrous-bus-android.git
+[submodule "ca-sud-ouest-citso-bus-android"]
+	path = ca-sud-ouest-citso-bus-android
+	url = git@github.com:mtransitapps/ca-sud-ouest-citso-bus-android.git
+[submodule "ca-sorel-varennes-citsv-bus-android"]
+	path = ca-sorel-varennes-citsv-bus-android
+	url = git@github.com:mtransitapps/ca-sorel-varennes-citsv-bus-android.git
