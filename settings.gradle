@@ -7,4 +7,7 @@ include ':mtransit-for-android', // main Android app
         ':ca-montreal-amt-train-android', // Montreal AMT Train for Android
         ':ca-montreal-bixi-bike-android', // Montreal BIXI Bike for Android
         ':ca-montreal-stm-bus-android', // Montreal STM Bus for Android
-        ':ca-montreal-stm-subway-android' // Montreal STM Subway for Android
+        ':ca-montreal-stm-subway-android', // Montreal STM Subway for Android
+        ':ca-roussillon-citrous-bus-android', // Roussillon CIT Bus for Android
+        ':ca-sorel-varennes-citsv-bus-android', // Sorel-Varennes CIT Bus for Android
+        ':ca-sud-ouest-citso-bus-android' // Sud-Ouest CIT Bus for Android

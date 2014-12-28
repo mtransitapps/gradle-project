@@ -23,7 +23,9 @@ local.properties
 proguard/
 # Eclipse only libs
 appcompat_lib
+cardview_lib
 google-play-services_lib
+recyclerview_lib
 
 # IDEA/Android Studio project files, because the project can be imported from settings.gradle
 .idea/modules.xml
@@ -31,6 +33,9 @@ google-play-services_lib
 .idea/dictionaries
 .idea/libraries
 *.iml
+
+# gedit temporary files
+*~
 
 # Log Files
 *.log
@@ -41,3 +46,7 @@ google-play-services_lib
 keys.properties
 custom_local.properties
 runall.sh
+
+# Future projects
+fr-*
+us-*
