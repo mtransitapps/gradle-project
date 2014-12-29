@@ -15,3 +15,6 @@ before_install:
  - chmod +x gradlew
 
 script: ./gradlew -c settings.gradle.travis build
+
+after_success:
+  - coveralls
