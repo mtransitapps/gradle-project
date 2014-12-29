@@ -10,4 +10,7 @@ branches:
   only:
     - mmathieum
 
+before_install:
+ - chmod +x gradlew
+
 script: ./gradlew -c settings.gradle.min build
