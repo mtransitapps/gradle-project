@@ -10,4 +10,4 @@ branches:
   only:
     - mmathieum
 
-./gradlew -c settings.gradle.min build
+script: ./gradlew -c settings.gradle.min build
