@@ -11,6 +11,9 @@
     <mapping directory="$PROJECT_DIR$/ca-montreal-bixi-bike-android" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ca-montreal-stm-bus-android" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ca-montreal-stm-subway-android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ca-roussillon-citrous-bus-android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ca-sorel-varennes-citsv-bus-android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ca-sud-ouest-citso-bus-android" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/commons-android" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/mtransit-for-android" vcs="Git" />
   </component>
