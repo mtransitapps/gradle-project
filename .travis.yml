@@ -1,6 +1,10 @@
 language: android
 jdk: oraclejdk7
 
+env:
+  global:
+   - secure: "lMnt0yjgF8sW1SmUMHJUDTGA3KdzsrffsDlpMVn9RkNdeFIgHNxCNbRFUoAeGP7mbEPudofxiQeWnpey3WzZi/SNlfXaPKRjSHF7/tyFqTaNLQuLQc27j3P3xQvApWgmdPN9quJ/A7a1gomgWnBuMwa8KgXm9gjIrlws3S3NXSs="
+
 android:
   components:
     - android-21
@@ -18,3 +22,10 @@ script: ./gradlew -c settings.gradle.travis build
 
 after_success:
   - coveralls
+
+addons:
+  coverity_scan:
+    project:
+      name: "mtransitapps/gradle-project"
+    build_command:   "./gradlew -c settings.gradle.travis build"
+    branch_pattern: mmathieum
