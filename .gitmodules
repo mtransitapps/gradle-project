@@ -37,3 +37,9 @@
 [submodule "ca-sorel-varennes-citsv-bus-android"]
 	path = ca-sorel-varennes-citsv-bus-android
 	url = git://github.com/mtransitapps/ca-sorel-varennes-citsv-bus-android.git
+[submodule "ca-richelieu-citvr-bus-android"]
+	path = ca-richelieu-citvr-bus-android
+	url = git://github.com/mtransitapps/ca-richelieu-citvr-bus-android
+[submodule "ca-chambly-richelieu-carignan-citcrc-bus-android"]
+	path = ca-chambly-richelieu-carignan-citcrc-bus-android
+	url = git://github.com/mtransitapps/ca-chambly-richelieu-carignan-citcrc-bus-android
