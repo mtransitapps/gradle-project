@@ -42,4 +42,4 @@
 	url = git://github.com/mtransitapps/ca-richelieu-citvr-bus-android.git
 [submodule "ca-chambly-richelieu-carignan-citcrc-bus-android"]
 	path = ca-chambly-richelieu-carignan-citcrc-bus-android
-	url = git://github.com/mtransitapps/ca-chambly-richelieu-carignan-citcrc-bus-android
+	url = git://github.com/mtransitapps/ca-chambly-richelieu-carignan-citcrc-bus-android.git
