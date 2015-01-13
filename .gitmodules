@@ -43,15 +43,12 @@
 [submodule "ca-chambly-richelieu-carignan-citcrc-bus-android"]
 	path = ca-chambly-richelieu-carignan-citcrc-bus-android
 	url = git://github.com/mtransitapps/ca-chambly-richelieu-carignan-citcrc-bus-android.git
-<<<<<<< HEAD
 [submodule "ca-haut-st-laurent-cithsl-bus-android"]
 	path = ca-haut-st-laurent-cithsl-bus-android
 	url = git://github.com/mtransitapps/ca-haut-st-laurent-cithsl-bus-android.git
-=======
 [submodule "ca-la-presqu-ile-citpi-bus-android"]
 	path = ca-la-presqu-ile-citpi-bus-android
 	url = git://github.com/mtransitapps/ca-la-presqu-ile-citpi-bus-android.git
 [submodule "ca-lanaudiere-crtl-bus-android"]
 	path = ca-lanaudiere-crtl-bus-android
 	url = git://github.com/mtransitapps/ca-lanaudiere-crtl-bus-android.git
->>>>>>> 78806f284dbb2f71ed219bfb5ac9e6f3af43b23f
