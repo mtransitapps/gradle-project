@@ -43,3 +43,6 @@
 [submodule "ca-chambly-richelieu-carignan-citcrc-bus-android"]
 	path = ca-chambly-richelieu-carignan-citcrc-bus-android
 	url = git://github.com/mtransitapps/ca-chambly-richelieu-carignan-citcrc-bus-android.git
+[submodule "ca-la-presqu-ile-citpi-bus-android"]
+	path = ca-la-presqu-ile-citpi-bus-android
+	url = git://github.com/mtransitapps/ca-la-presqu-ile-citpi-bus-android.git
