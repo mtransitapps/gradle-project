@@ -46,3 +46,6 @@
 [submodule "ca-la-presqu-ile-citpi-bus-android"]
 	path = ca-la-presqu-ile-citpi-bus-android
 	url = git://github.com/mtransitapps/ca-la-presqu-ile-citpi-bus-android.git
+[submodule "ca-lanaudiere-crtl-bus-android"]
+	path = ca-lanaudiere-crtl-bus-android
+	url = git://github.com/mtransitapps/ca-lanaudiere-crtl-bus-android.git
