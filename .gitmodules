@@ -52,3 +52,6 @@
 [submodule "ca-lanaudiere-crtl-bus-android"]
 	path = ca-lanaudiere-crtl-bus-android
 	url = git://github.com/mtransitapps/ca-lanaudiere-crtl-bus-android.git
+[submodule "ca-l-assomption-mrclasso-bus-android"]
+	path = ca-l-assomption-mrclasso-bus-android
+	url = git://github.com/mtransitapps/ca-l-assomption-mrclasso-bus-android.git
