@@ -55,3 +55,6 @@
 [submodule "ca-l-assomption-mrclasso-bus-android"]
 	path = ca-l-assomption-mrclasso-bus-android
 	url = git://github.com/mtransitapps/ca-l-assomption-mrclasso-bus-android.git
+[submodule "ca-les-moulins-mrclm-bus-android"]
+	path = ca-les-moulins-mrclm-bus-android
+	url = git://github.com/mtransitapps/ca-les-moulins-mrclm-bus-android.git
