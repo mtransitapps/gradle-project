@@ -58,3 +58,6 @@
 [submodule "ca-les-moulins-mrclm-bus-android"]
 	path = ca-les-moulins-mrclm-bus-android
 	url = git://github.com/mtransitapps/ca-les-moulins-mrclm-bus-android.git
+[submodule "ca-deux-montagnes-mrcdm-bus-android"]
+	path = ca-deux-montagnes-mrcdm-bus-android
+	url = git://github.com/mtransitapps/ca-deux-montagnes-mrcdm-bus-android.git
