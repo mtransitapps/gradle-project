@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ca-chambly-richelieu-carignan-citcrc-bus-android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ca-deux-montagnes-mrcdm-bus-android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ca-haut-st-laurent-cithsl-bus-android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ca-l-assomption-mrclasso-bus-android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ca-la-presqu-ile-citpi-bus-android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ca-lanaudiere-crtl-bus-android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ca-laurentides-citla-bus-android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ca-laval-stl-bus-android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ca-le-richelain-citlr-bus-android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ca-les-moulins-mrclm-bus-android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ca-longueuil-rtl-bus-android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ca-montreal-amt-bus-android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ca-montreal-amt-train-android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ca-montreal-bixi-bike-android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ca-montreal-stm-bus-android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ca-montreal-stm-subway-android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ca-richelieu-citvr-bus-android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ca-roussillon-citrous-bus-android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ca-sorel-varennes-citsv-bus-android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ca-ste-julie-omitsju-bus-android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ca-sud-ouest-citso-bus-android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/commons-android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mtransit-for-android" vcs="Git" />
+  </component>
+</project>
+

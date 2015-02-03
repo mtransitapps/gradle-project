@@ -1,0 +1,31 @@
+language: android
+jdk: oraclejdk7
+
+env:
+  global:
+   - secure: "lMnt0yjgF8sW1SmUMHJUDTGA3KdzsrffsDlpMVn9RkNdeFIgHNxCNbRFUoAeGP7mbEPudofxiQeWnpey3WzZi/SNlfXaPKRjSHF7/tyFqTaNLQuLQc27j3P3xQvApWgmdPN9quJ/A7a1gomgWnBuMwa8KgXm9gjIrlws3S3NXSs="
+
+android:
+  components:
+    - android-21
+    - build-tools-21.1.2
+    - extra-android-m2repository
+
+branches:
+  only:
+    - mmathieum
+
+before_install:
+ - chmod +x gradlew
+
+script: ./gradlew -c settings.gradle.travis build
+
+addons:
+  coverity_scan:
+    project:
+      name: "mtransitapps/gradle-project"
+      description: "Build submitted via Travis CI"
+    notification_email: mtransit.apps+CI@gmail.com
+    build_command_prepend: ""
+    build_command: "./gradlew -c settings.gradle.travis build"
+    branch_pattern: mmathieum

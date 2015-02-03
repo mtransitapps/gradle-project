@@ -1,0 +1,69 @@
+[submodule "mtransit-for-android"]
+	path = mtransit-for-android
+	url = git://github.com/mtransitapps/mtransit-for-android.git
+[submodule "commons-android"]
+	path = commons-android
+	url = git://github.com/mtransitapps/commons-android.git
+[submodule "ca-montreal-stm-subway-android"]
+	path = ca-montreal-stm-subway-android
+	url = git://github.com/mtransitapps/ca-montreal-stm-subway-android.git
+[submodule "ca-montreal-stm-bus-android"]
+	path = ca-montreal-stm-bus-android
+	url = git://github.com/mtransitapps/ca-montreal-stm-bus-android.git
+[submodule "ca-montreal-bixi-bike-android"]
+	path = ca-montreal-bixi-bike-android
+	url = git://github.com/mtransitapps/ca-montreal-bixi-bike-android.git
+[submodule "ca-montreal-amt-train-android"]
+	path = ca-montreal-amt-train-android
+	url = git://github.com/mtransitapps/ca-montreal-amt-train-android.git
+[submodule "ca-montreal-amt-bus-android"]
+	path = ca-montreal-amt-bus-android
+	url = git://github.com/mtransitapps/ca-montreal-amt-bus-android.git
+[submodule "ca-longueuil-rtl-bus-android"]
+	path = ca-longueuil-rtl-bus-android
+	url = git://github.com/mtransitapps/ca-longueuil-rtl-bus-android.git
+[submodule "ca-laval-stl-bus-android"]
+	path = ca-laval-stl-bus-android
+	url = git://github.com/mtransitapps/ca-laval-stl-bus-android.git
+[submodule "ca-laurentides-citla-bus-android"]
+	path = ca-laurentides-citla-bus-android
+	url = git://github.com/mtransitapps/ca-laurentides-citla-bus-android.git
+[submodule "ca-roussillon-citrous-bus-android"]
+	path = ca-roussillon-citrous-bus-android
+	url = git://github.com/mtransitapps/ca-roussillon-citrous-bus-android.git
+[submodule "ca-sud-ouest-citso-bus-android"]
+	path = ca-sud-ouest-citso-bus-android
+	url = git://github.com/mtransitapps/ca-sud-ouest-citso-bus-android.git
+[submodule "ca-sorel-varennes-citsv-bus-android"]
+	path = ca-sorel-varennes-citsv-bus-android
+	url = git://github.com/mtransitapps/ca-sorel-varennes-citsv-bus-android.git
+[submodule "ca-richelieu-citvr-bus-android"]
+	path = ca-richelieu-citvr-bus-android
+	url = git://github.com/mtransitapps/ca-richelieu-citvr-bus-android.git
+[submodule "ca-chambly-richelieu-carignan-citcrc-bus-android"]
+	path = ca-chambly-richelieu-carignan-citcrc-bus-android
+	url = git://github.com/mtransitapps/ca-chambly-richelieu-carignan-citcrc-bus-android.git
+[submodule "ca-haut-st-laurent-cithsl-bus-android"]
+	path = ca-haut-st-laurent-cithsl-bus-android
+	url = git://github.com/mtransitapps/ca-haut-st-laurent-cithsl-bus-android.git
+[submodule "ca-la-presqu-ile-citpi-bus-android"]
+	path = ca-la-presqu-ile-citpi-bus-android
+	url = git://github.com/mtransitapps/ca-la-presqu-ile-citpi-bus-android.git
+[submodule "ca-lanaudiere-crtl-bus-android"]
+	path = ca-lanaudiere-crtl-bus-android
+	url = git://github.com/mtransitapps/ca-lanaudiere-crtl-bus-android.git
+[submodule "ca-l-assomption-mrclasso-bus-android"]
+	path = ca-l-assomption-mrclasso-bus-android
+	url = git://github.com/mtransitapps/ca-l-assomption-mrclasso-bus-android.git
+[submodule "ca-les-moulins-mrclm-bus-android"]
+	path = ca-les-moulins-mrclm-bus-android
+	url = git://github.com/mtransitapps/ca-les-moulins-mrclm-bus-android.git
+[submodule "ca-deux-montagnes-mrcdm-bus-android"]
+	path = ca-deux-montagnes-mrcdm-bus-android
+	url = git://github.com/mtransitapps/ca-deux-montagnes-mrcdm-bus-android.git
+[submodule "ca-le-richelain-citlr-bus-android"]
+	path = ca-le-richelain-citlr-bus-android
+	url = git://github.com/mtransitapps/ca-le-richelain-citlr-bus-android.git
+[submodule "ca-ste-julie-omitsju-bus-android"]
+	path = ca-ste-julie-omitsju-bus-android
+	url = git://github.com/mtransitapps/ca-ste-julie-omitsju-bus-android.git
