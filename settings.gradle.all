@@ -3,7 +3,8 @@ include ':mtransit-for-android', // main Android app
         ':ca-chambly-richelieu-carignan-citcrc-bus-android', // CRC (Blus) Bus for Android
         ':ca-deux-montagnes-mrcdm-bus-android', // Deux-Montagnes MRC Bus for Android
         ':ca-haut-st-laurent-cithsl-bus-android', // Haut-St-Laurent CIT Bus for Android
-        ':ca-lanaudiere-crtl-bus-android', // Lanaudière CIT Bus for Android
+        ':ca-joliette-ctjm-bus-android', // Joliette CTJM Bus for Android
+        ':ca-lanaudiere-crtl-bus-android', // Lanaudière CRT Bus for Android
         ':ca-la-presqu-ile-citpi-bus-android', // La Presqu'Île CIT Bus for Android
         ':ca-l-assomption-mrclasso-bus-android', // L'Assomption MRC Bus for Android
         ':ca-laurentides-citla-bus-android', // Laurentides CIT Bus for Android

@@ -67,3 +67,6 @@
 [submodule "ca-ste-julie-omitsju-bus-android"]
 	path = ca-ste-julie-omitsju-bus-android
 	url = git://github.com/mtransitapps/ca-ste-julie-omitsju-bus-android.git
+[submodule "ca-joliette-ctjm-bus-android"]
+	path = ca-joliette-ctjm-bus-android
+	url = git://github.com/mtransitapps/ca-joliette-ctjm-bus-android.git

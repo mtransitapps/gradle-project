@@ -1,23 +1,2 @@
 include ':mtransit-for-android', // main Android app
-        ':commons-android', // common code shared by all Android apps
-        ':ca-chambly-richelieu-carignan-citcrc-bus-android', // CRC (Blus) Bus for Android
-        ':ca-deux-montagnes-mrcdm-bus-android', // Deux-Montagnes MRC Bus for Android
-        ':ca-haut-st-laurent-cithsl-bus-android', // Haut-St-Laurent CIT Bus for Android
-        ':ca-lanaudiere-crtl-bus-android', // Lanaudière CIT Bus for Android
-        ':ca-la-presqu-ile-citpi-bus-android', // La Presqu'Île CIT Bus for Android
-        ':ca-l-assomption-mrclasso-bus-android', // L'Assomption MRC Bus for Android
-        ':ca-laurentides-citla-bus-android', // Laurentides CIT Bus for Android
-        ':ca-laval-stl-bus-android', // Laval STL Bus for Android
-        ':ca-le-richelain-citlr-bus-android', // Le Richelain CIT Bus for Android
-        ':ca-les-moulins-mrclm-bus-android', // Les Moulins MRC Bus for Android
-        ':ca-longueuil-rtl-bus-android', // Longueuil RTL Bus for Android
-        ':ca-montreal-amt-bus-android', // Montreal AMT Bus for Android
-        ':ca-montreal-amt-train-android', // Montreal AMT Train for Android
-        ':ca-montreal-bixi-bike-android', // Montreal BIXI Bike for Android
-        ':ca-montreal-stm-bus-android', // Montreal STM Bus for Android
-        ':ca-montreal-stm-subway-android', // Montreal STM Subway for Android
-        ':ca-richelieu-citvr-bus-android', // Richelieu CIT Bus for Android
-        ':ca-roussillon-citrous-bus-android', // Roussillon CIT Bus for Android
-        ':ca-sorel-varennes-citsv-bus-android', // Sorel-Varennes CIT Bus for Android
-        ':ca-ste-julie-omitsju-bus-android', // Ste-Julie Bus for Android
-        ':ca-sud-ouest-citso-bus-android' // Sud-Ouest CIT Bus for Android
+        ':commons-android' // common code shared by all Android apps
