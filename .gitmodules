@@ -70,3 +70,69 @@
 [submodule "ca-joliette-ctjm-bus-android"]
 	path = ca-joliette-ctjm-bus-android
 	url = git://github.com/mtransitapps/ca-joliette-ctjm-bus-android.git
+[submodule "parser"]
+	path = parser
+	url = git://github.com/mtransitapps/parser.git
+[submodule "ca-chambly-richelieu-carignan-citcrc-bus-parser"]
+	path = ca-chambly-richelieu-carignan-citcrc-bus-parser
+	url = git://github.com/mtransitapps/ca-chambly-richelieu-carignan-citcrc-bus-parser.git
+[submodule "ca-deux-montagnes-mrcdm-bus-parser"]
+	path = ca-deux-montagnes-mrcdm-bus-parser
+	url = git://github.com/mtransitapps/ca-deux-montagnes-mrcdm-bus-parser.git
+[submodule "ca-haut-st-laurent-cithsl-bus-parser"]
+	path = ca-haut-st-laurent-cithsl-bus-parser
+	url = git://github.com/mtransitapps/ca-haut-st-laurent-cithsl-bus-parser.git
+[submodule "ca-joliette-ctjm-bus-parser"]
+	path = ca-joliette-ctjm-bus-parser
+	url = git://github.com/mtransitapps/ca-joliette-ctjm-bus-parser.git
+[submodule "ca-lanaudiere-crtl-bus-parser"]
+	path = ca-lanaudiere-crtl-bus-parser
+	url = git://github.com/mtransitapps/ca-lanaudiere-crtl-bus-parser.git
+[submodule "ca-la-presqu-ile-citpi-bus-parser"]
+	path = ca-la-presqu-ile-citpi-bus-parser
+	url = git://github.com/mtransitapps/ca-la-presqu-ile-citpi-bus-parser.git
+[submodule "ca-l-assomption-mrclasso-bus-parser"]
+	path = ca-l-assomption-mrclasso-bus-parser
+	url = git://github.com/mtransitapps/ca-l-assomption-mrclasso-bus-parser.git
+[submodule "ca-laurentides-citla-bus-parser"]
+	path = ca-laurentides-citla-bus-parser
+	url = git://github.com/mtransitapps/ca-laurentides-citla-bus-parser.git
+[submodule "ca-laval-stl-bus-parser"]
+	path = ca-laval-stl-bus-parser
+	url = git://github.com/mtransitapps/ca-laval-stl-bus-parser.git
+[submodule "ca-le-richelain-citlr-bus-parser"]
+	path = ca-le-richelain-citlr-bus-parser
+	url = git://github.com/mtransitapps/ca-le-richelain-citlr-bus-parser.git
+[submodule "ca-les-moulins-mrclm-bus-parser"]
+	path = ca-les-moulins-mrclm-bus-parser
+	url = git://github.com/mtransitapps/ca-les-moulins-mrclm-bus-parser.git
+[submodule "ca-longueuil-rtl-bus-parser"]
+	path = ca-longueuil-rtl-bus-parser
+	url = git://github.com/mtransitapps/ca-longueuil-rtl-bus-parser.git
+[submodule "ca-montreal-amt-bus-parser"]
+	path = ca-montreal-amt-bus-parser
+	url = git://github.com/mtransitapps/ca-montreal-amt-bus-parser.git
+[submodule "ca-montreal-amt-train-parser"]
+	path = ca-montreal-amt-train-parser
+	url = git://github.com/mtransitapps/ca-montreal-amt-train-parser.git
+[submodule "ca-montreal-stm-bus-parser"]
+	path = ca-montreal-stm-bus-parser
+	url = git://github.com/mtransitapps/ca-montreal-stm-bus-parser.git
+[submodule "ca-montreal-stm-subway-parser"]
+	path = ca-montreal-stm-subway-parser
+	url = git://github.com/mtransitapps/ca-montreal-stm-subway-parser.git
+[submodule "ca-richelieu-citvr-bus-parser"]
+	path = ca-richelieu-citvr-bus-parser
+	url = git://github.com/mtransitapps/ca-richelieu-citvr-bus-parser.git
+[submodule "ca-roussillon-citrous-bus-parser"]
+	path = ca-roussillon-citrous-bus-parser
+	url = git://github.com/mtransitapps/ca-roussillon-citrous-bus-parser.git
+[submodule "ca-sorel-varennes-citsv-bus-parser"]
+	path = ca-sorel-varennes-citsv-bus-parser
+	url = git://github.com/mtransitapps/ca-sorel-varennes-citsv-bus-parser.git
+[submodule "ca-ste-julie-omitsju-bus-parser"]
+	path = ca-ste-julie-omitsju-bus-parser
+	url = git://github.com/mtransitapps/ca-ste-julie-omitsju-bus-parser.git
+[submodule "ca-sud-ouest-citso-bus-parser"]
+	path = ca-sud-ouest-citso-bus-parser
+	url = git://github.com/mtransitapps/ca-sud-ouest-citso-bus-parser.git
