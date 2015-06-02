@@ -1,90 +1,285 @@
-[submodule "mtransit-for-android"]
-	path = mtransit-for-android
-	url = git://github.com/mtransitapps/mtransit-for-android.git
 [submodule "commons-android"]
 	path = commons-android
 	url = git://github.com/mtransitapps/commons-android.git
-[submodule "ca-montreal-stm-subway-android"]
-	path = ca-montreal-stm-subway-android
-	url = git://github.com/mtransitapps/ca-montreal-stm-subway-android.git
-[submodule "ca-montreal-stm-bus-android"]
-	path = ca-montreal-stm-bus-android
-	url = git://github.com/mtransitapps/ca-montreal-stm-bus-android.git
-[submodule "ca-montreal-bixi-bike-android"]
-	path = ca-montreal-bixi-bike-android
-	url = git://github.com/mtransitapps/ca-montreal-bixi-bike-android.git
-[submodule "ca-montreal-amt-train-android"]
-	path = ca-montreal-amt-train-android
-	url = git://github.com/mtransitapps/ca-montreal-amt-train-android.git
-[submodule "ca-montreal-amt-bus-android"]
-	path = ca-montreal-amt-bus-android
-	url = git://github.com/mtransitapps/ca-montreal-amt-bus-android.git
-[submodule "ca-longueuil-rtl-bus-android"]
-	path = ca-longueuil-rtl-bus-android
-	url = git://github.com/mtransitapps/ca-longueuil-rtl-bus-android.git
-[submodule "ca-laval-stl-bus-android"]
-	path = ca-laval-stl-bus-android
-	url = git://github.com/mtransitapps/ca-laval-stl-bus-android.git
-[submodule "ca-laurentides-citla-bus-android"]
-	path = ca-laurentides-citla-bus-android
-	url = git://github.com/mtransitapps/ca-laurentides-citla-bus-android.git
-[submodule "ca-roussillon-citrous-bus-android"]
-	path = ca-roussillon-citrous-bus-android
-	url = git://github.com/mtransitapps/ca-roussillon-citrous-bus-android.git
-[submodule "ca-sud-ouest-citso-bus-android"]
-	path = ca-sud-ouest-citso-bus-android
-	url = git://github.com/mtransitapps/ca-sud-ouest-citso-bus-android.git
-[submodule "ca-sorel-varennes-citsv-bus-android"]
-	path = ca-sorel-varennes-citsv-bus-android
-	url = git://github.com/mtransitapps/ca-sorel-varennes-citsv-bus-android.git
-[submodule "ca-richelieu-citvr-bus-android"]
-	path = ca-richelieu-citvr-bus-android
-	url = git://github.com/mtransitapps/ca-richelieu-citvr-bus-android.git
+[submodule "mtransit-for-android"]
+	path = mtransit-for-android
+	url = git://github.com/mtransitapps/mtransit-for-android.git
+[submodule "ca-brampton-transit-bus-android"]
+	path = ca-brampton-transit-bus-android
+	url = git://github.com/mtransitapps/ca-brampton-transit-bus-android.git
+[submodule "ca-burlington-transit-bus-android"]
+	path = ca-burlington-transit-bus-android
+	url = git://github.com/mtransitapps/ca-burlington-transit-bus-android.git
+[submodule "ca-calgary-transit-bus-android"]
+	path = ca-calgary-transit-bus-android
+	url = git://github.com/mtransitapps/ca-calgary-transit-bus-android.git
+[submodule "ca-calgary-transit-train-android"]
+	path = ca-calgary-transit-train-android
+	url = git://github.com/mtransitapps/ca-calgary-transit-train-android.git
+[submodule "ca-central-fraser-valley-transit-system-bus-android"]
+	path = ca-central-fraser-valley-transit-system-bus-android
+	url = git://github.com/mtransitapps/ca-central-fraser-valley-transit-system-bus-android.git
 [submodule "ca-chambly-richelieu-carignan-citcrc-bus-android"]
 	path = ca-chambly-richelieu-carignan-citcrc-bus-android
 	url = git://github.com/mtransitapps/ca-chambly-richelieu-carignan-citcrc-bus-android.git
-[submodule "ca-haut-st-laurent-cithsl-bus-android"]
-	path = ca-haut-st-laurent-cithsl-bus-android
-	url = git://github.com/mtransitapps/ca-haut-st-laurent-cithsl-bus-android.git
-[submodule "ca-la-presqu-ile-citpi-bus-android"]
-	path = ca-la-presqu-ile-citpi-bus-android
-	url = git://github.com/mtransitapps/ca-la-presqu-ile-citpi-bus-android.git
-[submodule "ca-lanaudiere-crtl-bus-android"]
-	path = ca-lanaudiere-crtl-bus-android
-	url = git://github.com/mtransitapps/ca-lanaudiere-crtl-bus-android.git
-[submodule "ca-l-assomption-mrclasso-bus-android"]
-	path = ca-l-assomption-mrclasso-bus-android
-	url = git://github.com/mtransitapps/ca-l-assomption-mrclasso-bus-android.git
-[submodule "ca-les-moulins-mrclm-bus-android"]
-	path = ca-les-moulins-mrclm-bus-android
-	url = git://github.com/mtransitapps/ca-les-moulins-mrclm-bus-android.git
+[submodule "ca-chilliwack-transit-system-bus-android"]
+	path = ca-chilliwack-transit-system-bus-android
+	url = git://github.com/mtransitapps/ca-chilliwack-transit-system-bus-android.git
+[submodule "ca-comox-valley-transit-system-bus-android"]
+	path = ca-comox-valley-transit-system-bus-android
+	url = git://github.com/mtransitapps/ca-comox-valley-transit-system-bus-android.git
 [submodule "ca-deux-montagnes-mrcdm-bus-android"]
 	path = ca-deux-montagnes-mrcdm-bus-android
 	url = git://github.com/mtransitapps/ca-deux-montagnes-mrcdm-bus-android.git
-[submodule "ca-le-richelain-citlr-bus-android"]
-	path = ca-le-richelain-citlr-bus-android
-	url = git://github.com/mtransitapps/ca-le-richelain-citlr-bus-android.git
-[submodule "ca-ste-julie-omitsju-bus-android"]
-	path = ca-ste-julie-omitsju-bus-android
-	url = git://github.com/mtransitapps/ca-ste-julie-omitsju-bus-android.git
+[submodule "ca-fraser-valley-express-bus-android"]
+	path = ca-fraser-valley-express-bus-android
+	url = git://github.com/mtransitapps/ca-fraser-valley-express-bus-android.git
+[submodule "ca-grand-river-transit-bus-android"]
+	path = ca-grand-river-transit-bus-android
+	url = git://github.com/mtransitapps/ca-grand-river-transit-bus-android.git
+[submodule "ca-gtha-go-transit-bus-android"]
+	path = ca-gtha-go-transit-bus-android
+	url = git://github.com/mtransitapps/ca-gtha-go-transit-bus-android.git
+[submodule "ca-gtha-go-transit-train-android"]
+	path = ca-gtha-go-transit-train-android
+	url = git://github.com/mtransitapps/ca-gtha-go-transit-train-android.git
+[submodule "ca-guelph-transit-bus-android"]
+	path = ca-guelph-transit-bus-android
+	url = git://github.com/mtransitapps/ca-guelph-transit-bus-android.git
+[submodule "ca-halifax-transit-bus-android"]
+	path = ca-halifax-transit-bus-android
+	url = git://github.com/mtransitapps/ca-halifax-transit-bus-android.git
+[submodule "ca-halifax-transit-ferry-android"]
+	path = ca-halifax-transit-ferry-android
+	url = git://github.com/mtransitapps/ca-halifax-transit-ferry-android.git
+[submodule "ca-hamilton-hsr-bus-android"]
+	path = ca-hamilton-hsr-bus-android
+	url = git://github.com/mtransitapps/ca-hamilton-hsr-bus-android.git
+[submodule "ca-haut-st-laurent-cithsl-bus-android"]
+	path = ca-haut-st-laurent-cithsl-bus-android
+	url = git://github.com/mtransitapps/ca-haut-st-laurent-cithsl-bus-android.git
 [submodule "ca-joliette-ctjm-bus-android"]
 	path = ca-joliette-ctjm-bus-android
 	url = git://github.com/mtransitapps/ca-joliette-ctjm-bus-android.git
+[submodule "ca-kamloops-transit-system-bus-android"]
+	path = ca-kamloops-transit-system-bus-android
+	url = git://github.com/mtransitapps/ca-kamloops-transit-system-bus-android.git
+[submodule "ca-kelowna-regional-transit-system-bus-android"]
+	path = ca-kelowna-regional-transit-system-bus-android
+	url = git://github.com/mtransitapps/ca-kelowna-regional-transit-system-bus-android.git
+[submodule "ca-kingston-transit-bus-android"]
+	path = ca-kingston-transit-bus-android
+	url = git://github.com/mtransitapps/ca-kingston-transit-bus-android.git
+[submodule "ca-lanaudiere-crtl-bus-android"]
+	path = ca-lanaudiere-crtl-bus-android
+	url = git://github.com/mtransitapps/ca-lanaudiere-crtl-bus-android.git
+[submodule "ca-la-presqu-ile-citpi-bus-android"]
+	path = ca-la-presqu-ile-citpi-bus-android
+	url = git://github.com/mtransitapps/ca-la-presqu-ile-citpi-bus-android.git
+[submodule "ca-l-assomption-mrclasso-bus-android"]
+	path = ca-l-assomption-mrclasso-bus-android
+	url = git://github.com/mtransitapps/ca-l-assomption-mrclasso-bus-android.git
+[submodule "ca-laurentides-citla-bus-android"]
+	path = ca-laurentides-citla-bus-android
+	url = git://github.com/mtransitapps/ca-laurentides-citla-bus-android.git
+[submodule "ca-laval-stl-bus-android"]
+	path = ca-laval-stl-bus-android
+	url = git://github.com/mtransitapps/ca-laval-stl-bus-android.git
+[submodule "ca-le-richelain-citlr-bus-android"]
+	path = ca-le-richelain-citlr-bus-android
+	url = git://github.com/mtransitapps/ca-le-richelain-citlr-bus-android.git
+[submodule "ca-les-moulins-mrclm-bus-android"]
+	path = ca-les-moulins-mrclm-bus-android
+	url = git://github.com/mtransitapps/ca-les-moulins-mrclm-bus-android.git
+[submodule "ca-longueuil-rtl-bus-android"]
+	path = ca-longueuil-rtl-bus-android
+	url = git://github.com/mtransitapps/ca-longueuil-rtl-bus-android.git
+[submodule "ca-mississauga-miway-bus-android"]
+	path = ca-mississauga-miway-bus-android
+	url = git://github.com/mtransitapps/ca-mississauga-miway-bus-android.git
+[submodule "ca-montreal-amt-bus-android"]
+	path = ca-montreal-amt-bus-android
+	url = git://github.com/mtransitapps/ca-montreal-amt-bus-android.git
+[submodule "ca-montreal-amt-train-android"]
+	path = ca-montreal-amt-train-android
+	url = git://github.com/mtransitapps/ca-montreal-amt-train-android.git
+[submodule "ca-montreal-bixi-bike-android"]
+	path = ca-montreal-bixi-bike-android
+	url = git://github.com/mtransitapps/ca-montreal-bixi-bike-android.git
+[submodule "ca-montreal-stm-bus-android"]
+	path = ca-montreal-stm-bus-android
+	url = git://github.com/mtransitapps/ca-montreal-stm-bus-android.git
+[submodule "ca-montreal-stm-subway-android"]
+	path = ca-montreal-stm-subway-android
+	url = git://github.com/mtransitapps/ca-montreal-stm-subway-android.git
+[submodule "ca-nanaimo-rdn-transit-system-bus-android"]
+	path = ca-nanaimo-rdn-transit-system-bus-android
+	url = git://github.com/mtransitapps/ca-nanaimo-rdn-transit-system-bus-android.git
+[submodule "ca-oakville-transit-bus-android"]
+	path = ca-oakville-transit-bus-android
+	url = git://github.com/mtransitapps/ca-oakville-transit-bus-android.git
+[submodule "ca-ottawa-oc-transpo-bus-android"]
+	path = ca-ottawa-oc-transpo-bus-android
+	url = git://github.com/mtransitapps/ca-ottawa-oc-transpo-bus-android.git
+[submodule "ca-ottawa-oc-transpo-train-android"]
+	path = ca-ottawa-oc-transpo-train-android
+	url = git://github.com/mtransitapps/ca-ottawa-oc-transpo-train-android.git
+[submodule "ca-prince-george-transit-system-bus-android"]
+	path = ca-prince-george-transit-system-bus-android
+	url = git://github.com/mtransitapps/ca-prince-george-transit-system-bus-android.git
+[submodule "ca-quebec-orleans-express-bus-android"]
+	path = ca-quebec-orleans-express-bus-android
+	url = git://github.com/mtransitapps/ca-quebec-orleans-express-bus-android.git
+[submodule "ca-quebec-rtc-bus-android"]
+	path = ca-quebec-rtc-bus-android
+	url = git://github.com/mtransitapps/ca-quebec-rtc-bus-android.git
+[submodule "ca-regina-transit-bus-android"]
+	path = ca-regina-transit-bus-android
+	url = git://github.com/mtransitapps/ca-regina-transit-bus-android.git
+[submodule "ca-richelieu-citvr-bus-android"]
+	path = ca-richelieu-citvr-bus-android
+	url = git://github.com/mtransitapps/ca-richelieu-citvr-bus-android.git
+[submodule "ca-roussillon-citrous-bus-android"]
+	path = ca-roussillon-citrous-bus-android
+	url = git://github.com/mtransitapps/ca-roussillon-citrous-bus-android.git
+[submodule "ca-saskatoon-transit-bus-android"]
+	path = ca-saskatoon-transit-bus-android
+	url = git://github.com/mtransitapps/ca-saskatoon-transit-bus-android.git
+[submodule "ca-sherbrooke-sts-bus-android"]
+	path = ca-sherbrooke-sts-bus-android
+	url = git://github.com/mtransitapps/ca-sherbrooke-sts-bus-android.git
+[submodule "ca-sorel-varennes-citsv-bus-android"]
+	path = ca-sorel-varennes-citsv-bus-android
+	url = git://github.com/mtransitapps/ca-sorel-varennes-citsv-bus-android.git
+[submodule "ca-squamish-transit-system-bus-android"]
+	path = ca-squamish-transit-system-bus-android
+	url = git://github.com/mtransitapps/ca-squamish-transit-system-bus-android.git
+[submodule "ca-ste-julie-omitsju-bus-android"]
+	path = ca-ste-julie-omitsju-bus-android
+	url = git://github.com/mtransitapps/ca-ste-julie-omitsju-bus-android.git
+[submodule "ca-st-john-s-metrobus-transit-bus-android"]
+	path = ca-st-john-s-metrobus-transit-bus-android
+	url = git://github.com/mtransitapps/ca-st-john-s-metrobus-transit-bus-android.git
+[submodule "ca-sud-ouest-citso-bus-android"]
+	path = ca-sud-ouest-citso-bus-android
+	url = git://github.com/mtransitapps/ca-sud-ouest-citso-bus-android.git
+[submodule "ca-thunder-bay-transit-bus-android"]
+	path = ca-thunder-bay-transit-bus-android
+	url = git://github.com/mtransitapps/ca-thunder-bay-transit-bus-android.git
+[submodule "ca-toronto-share-bike-android"]
+	path = ca-toronto-share-bike-android
+	url = git://github.com/mtransitapps/ca-toronto-share-bike-android.git
+[submodule "ca-toronto-ttc-bus-android"]
+	path = ca-toronto-ttc-bus-android
+	url = git://github.com/mtransitapps/ca-toronto-ttc-bus-android.git
+[submodule "ca-toronto-ttc-light-rail-android"]
+	path = ca-toronto-ttc-light-rail-android
+	url = git://github.com/mtransitapps/ca-toronto-ttc-light-rail-android.git
+[submodule "ca-toronto-ttc-subway-android"]
+	path = ca-toronto-ttc-subway-android
+	url = git://github.com/mtransitapps/ca-toronto-ttc-subway-android.git
+[submodule "ca-vancouver-translink-bus-android"]
+	path = ca-vancouver-translink-bus-android
+	url = git://github.com/mtransitapps/ca-vancouver-translink-bus-android.git
+[submodule "ca-vancouver-translink-ferry-android"]
+	path = ca-vancouver-translink-ferry-android
+	url = git://github.com/mtransitapps/ca-vancouver-translink-ferry-android.git
+[submodule "ca-vancouver-translink-train-android"]
+	path = ca-vancouver-translink-train-android
+	url = git://github.com/mtransitapps/ca-vancouver-translink-train-android.git
+[submodule "ca-victoria-regional-transit-system-bus-android"]
+	path = ca-victoria-regional-transit-system-bus-android
+	url = git://github.com/mtransitapps/ca-victoria-regional-transit-system-bus-android.git
+[submodule "ca-west-coast-express-bus-android"]
+	path = ca-west-coast-express-bus-android
+	url = git://github.com/mtransitapps/ca-west-coast-express-bus-android.git
+[submodule "ca-west-coast-express-train-android"]
+	path = ca-west-coast-express-train-android
+	url = git://github.com/mtransitapps/ca-west-coast-express-train-android.git
+[submodule "ca-whistler-transit-system-bus-android"]
+	path = ca-whistler-transit-system-bus-android
+	url = git://github.com/mtransitapps/ca-whistler-transit-system-bus-android.git
+[submodule "ca-winnipeg-transit-bus-android"]
+	path = ca-winnipeg-transit-bus-android
+	url = git://github.com/mtransitapps/ca-winnipeg-transit-bus-android.git
+[submodule "ca-york-region-yrt-viva-bus-android"]
+	path = ca-york-region-yrt-viva-bus-android
+	url = git://github.com/mtransitapps/ca-york-region-yrt-viva-bus-android.git
 [submodule "parser"]
 	path = parser
 	url = git://github.com/mtransitapps/parser.git
+[submodule "ca-brampton-transit-bus-parser"]
+	path = ca-brampton-transit-bus-parser
+	url = git://github.com/mtransitapps/ca-brampton-transit-bus-parser.git
+[submodule "ca-burlington-transit-bus-parser"]
+	path = ca-burlington-transit-bus-parser
+	url = git://github.com/mtransitapps/ca-burlington-transit-bus-parser.git
+[submodule "ca-calgary-transit-bus-parser"]
+	path = ca-calgary-transit-bus-parser
+	url = git://github.com/mtransitapps/ca-calgary-transit-bus-parser.git
+[submodule "ca-calgary-transit-train-parser"]
+	path = ca-calgary-transit-train-parser
+	url = git://github.com/mtransitapps/ca-calgary-transit-train-parser.git
+[submodule "ca-central-fraser-valley-transit-system-bus-parser"]
+	path = ca-central-fraser-valley-transit-system-bus-parser
+	url = git://github.com/mtransitapps/ca-central-fraser-valley-transit-system-bus-parser.git
 [submodule "ca-chambly-richelieu-carignan-citcrc-bus-parser"]
 	path = ca-chambly-richelieu-carignan-citcrc-bus-parser
 	url = git://github.com/mtransitapps/ca-chambly-richelieu-carignan-citcrc-bus-parser.git
+[submodule "ca-chilliwack-transit-system-bus-parser"]
+	path = ca-chilliwack-transit-system-bus-parser
+	url = git://github.com/mtransitapps/ca-chilliwack-transit-system-bus-parser.git
+[submodule "ca-comox-valley-transit-system-bus-parser"]
+	path = ca-comox-valley-transit-system-bus-parser
+	url = git://github.com/mtransitapps/ca-comox-valley-transit-system-bus-parser.git
 [submodule "ca-deux-montagnes-mrcdm-bus-parser"]
 	path = ca-deux-montagnes-mrcdm-bus-parser
 	url = git://github.com/mtransitapps/ca-deux-montagnes-mrcdm-bus-parser.git
+[submodule "ca-edmonton-ets-bus-parser"]
+	path = ca-edmonton-ets-bus-parser
+	url = git://github.com/mtransitapps/ca-edmonton-ets-bus-parser.git
+[submodule "ca-edmonton-ets-train-parser"]
+	path = ca-edmonton-ets-train-parser
+	url = git://github.com/mtransitapps/ca-edmonton-ets-train-parser.git
+[submodule "ca-fraser-valley-express-bus-parser"]
+	path = ca-fraser-valley-express-bus-parser
+	url = git://github.com/mtransitapps/ca-fraser-valley-express-bus-parser.git
+[submodule "ca-grand-river-transit-bus-parser"]
+	path = ca-grand-river-transit-bus-parser
+	url = git://github.com/mtransitapps/ca-grand-river-transit-bus-parser.git
+[submodule "ca-gtha-go-transit-bus-parser"]
+	path = ca-gtha-go-transit-bus-parser
+	url = git://github.com/mtransitapps/ca-gtha-go-transit-bus-parser.git
+[submodule "ca-gtha-go-transit-train-parser"]
+	path = ca-gtha-go-transit-train-parser
+	url = git://github.com/mtransitapps/ca-gtha-go-transit-train-parser.git
+[submodule "ca-guelph-transit-bus-parser"]
+	path = ca-guelph-transit-bus-parser
+	url = git://github.com/mtransitapps/ca-guelph-transit-bus-parser.git
+[submodule "ca-halifax-transit-bus-parser"]
+	path = ca-halifax-transit-bus-parser
+	url = git://github.com/mtransitapps/ca-halifax-transit-bus-parser.git
+[submodule "ca-halifax-transit-ferry-parser"]
+	path = ca-halifax-transit-ferry-parser
+	url = git://github.com/mtransitapps/ca-halifax-transit-ferry-parser.git
+[submodule "ca-hamilton-hsr-bus-parser"]
+	path = ca-hamilton-hsr-bus-parser
+	url = git://github.com/mtransitapps/ca-hamilton-hsr-bus-parser.git
 [submodule "ca-haut-st-laurent-cithsl-bus-parser"]
 	path = ca-haut-st-laurent-cithsl-bus-parser
 	url = git://github.com/mtransitapps/ca-haut-st-laurent-cithsl-bus-parser.git
 [submodule "ca-joliette-ctjm-bus-parser"]
 	path = ca-joliette-ctjm-bus-parser
 	url = git://github.com/mtransitapps/ca-joliette-ctjm-bus-parser.git
+[submodule "ca-kamloops-transit-system-bus-parser"]
+	path = ca-kamloops-transit-system-bus-parser
+	url = git://github.com/mtransitapps/ca-kamloops-transit-system-bus-parser.git
+[submodule "ca-kelowna-regional-transit-system-bus-parser"]
+	path = ca-kelowna-regional-transit-system-bus-parser
+	url = git://github.com/mtransitapps/ca-kelowna-regional-transit-system-bus-parser.git
+[submodule "ca-kingston-transit-bus-parser"]
+	path = ca-kingston-transit-bus-parser
+	url = git://github.com/mtransitapps/ca-kingston-transit-bus-parser.git
 [submodule "ca-lanaudiere-crtl-bus-parser"]
 	path = ca-lanaudiere-crtl-bus-parser
 	url = git://github.com/mtransitapps/ca-lanaudiere-crtl-bus-parser.git
@@ -109,6 +304,9 @@
 [submodule "ca-longueuil-rtl-bus-parser"]
 	path = ca-longueuil-rtl-bus-parser
 	url = git://github.com/mtransitapps/ca-longueuil-rtl-bus-parser.git
+[submodule "ca-mississauga-miway-bus-parser"]
+	path = ca-mississauga-miway-bus-parser
+	url = git://github.com/mtransitapps/ca-mississauga-miway-bus-parser.git
 [submodule "ca-montreal-amt-bus-parser"]
 	path = ca-montreal-amt-bus-parser
 	url = git://github.com/mtransitapps/ca-montreal-amt-bus-parser.git
@@ -121,18 +319,100 @@
 [submodule "ca-montreal-stm-subway-parser"]
 	path = ca-montreal-stm-subway-parser
 	url = git://github.com/mtransitapps/ca-montreal-stm-subway-parser.git
+[submodule "ca-nanaimo-rdn-transit-system-bus-parser"]
+	path = ca-nanaimo-rdn-transit-system-bus-parser
+	url = git://github.com/mtransitapps/ca-nanaimo-rdn-transit-system-bus-parser.git
+[submodule "ca-oakville-transit-bus-parser"]
+	path = ca-oakville-transit-bus-parser
+	url = git://github.com/mtransitapps/ca-oakville-transit-bus-parser.git
+[submodule "ca-ottawa-oc-transpo-bus-parser"]
+	path = ca-ottawa-oc-transpo-bus-parser
+	url = git://github.com/mtransitapps/ca-ottawa-oc-transpo-bus-parser.git
+[submodule "ca-ottawa-oc-transpo-train-parser"]
+	path = ca-ottawa-oc-transpo-train-parser
+	url = git://github.com/mtransitapps/ca-ottawa-oc-transpo-train-parser.git
+[submodule "ca-prince-george-transit-system-bus-parser"]
+	path = ca-prince-george-transit-system-bus-parser
+	url = git://github.com/mtransitapps/ca-prince-george-transit-system-bus-parser.git
+[submodule "ca-quebec-orleans-express-bus-parser"]
+	path = ca-quebec-orleans-express-bus-parser
+	url = git://github.com/mtransitapps/ca-quebec-orleans-express-bus-parser.git
+[submodule "ca-quebec-rtc-bus-parser"]
+	path = ca-quebec-rtc-bus-parser
+	url = git://github.com/mtransitapps/ca-quebec-rtc-bus-parser.git
+[submodule "ca-regina-transit-bus-parser"]
+	path = ca-regina-transit-bus-parser
+	url = git://github.com/mtransitapps/ca-regina-transit-bus-parser.git
 [submodule "ca-richelieu-citvr-bus-parser"]
 	path = ca-richelieu-citvr-bus-parser
 	url = git://github.com/mtransitapps/ca-richelieu-citvr-bus-parser.git
 [submodule "ca-roussillon-citrous-bus-parser"]
 	path = ca-roussillon-citrous-bus-parser
 	url = git://github.com/mtransitapps/ca-roussillon-citrous-bus-parser.git
+[submodule "ca-saskatoon-transit-bus-parser"]
+	path = ca-saskatoon-transit-bus-parser
+	url = git://github.com/mtransitapps/ca-saskatoon-transit-bus-parser.git
+[submodule "ca-sherbrooke-sts-bus-parser"]
+	path = ca-sherbrooke-sts-bus-parser
+	url = git://github.com/mtransitapps/ca-sherbrooke-sts-bus-parser.git
 [submodule "ca-sorel-varennes-citsv-bus-parser"]
 	path = ca-sorel-varennes-citsv-bus-parser
 	url = git://github.com/mtransitapps/ca-sorel-varennes-citsv-bus-parser.git
+[submodule "ca-squamish-transit-system-bus-parser"]
+	path = ca-squamish-transit-system-bus-parser
+	url = git://github.com/mtransitapps/ca-squamish-transit-system-bus-parser.git
+[submodule "ca-st-albert-transit-bus-parser"]
+	path = ca-st-albert-transit-bus-parser
+	url = git://github.com/mtransitapps/ca-st-albert-transit-bus-parser.git
 [submodule "ca-ste-julie-omitsju-bus-parser"]
 	path = ca-ste-julie-omitsju-bus-parser
 	url = git://github.com/mtransitapps/ca-ste-julie-omitsju-bus-parser.git
+[submodule "ca-st-john-s-metrobus-transit-bus-parser"]
+	path = ca-st-john-s-metrobus-transit-bus-parser
+	url = git://github.com/mtransitapps/ca-st-john-s-metrobus-transit-bus-parser.git
+[submodule "ca-strathcona-county-transit-bus-parser"]
+	path = ca-strathcona-county-transit-bus-parser
+	url = git://github.com/mtransitapps/ca-strathcona-county-transit-bus-parser.git
 [submodule "ca-sud-ouest-citso-bus-parser"]
 	path = ca-sud-ouest-citso-bus-parser
 	url = git://github.com/mtransitapps/ca-sud-ouest-citso-bus-parser.git
+[submodule "ca-thunder-bay-transit-bus-parser"]
+	path = ca-thunder-bay-transit-bus-parser
+	url = git://github.com/mtransitapps/ca-thunder-bay-transit-bus-parser.git
+[submodule "ca-toronto-ttc-bus-parser"]
+	path = ca-toronto-ttc-bus-parser
+	url = git://github.com/mtransitapps/ca-toronto-ttc-bus-parser.git
+[submodule "ca-toronto-ttc-light-rail-parser"]
+	path = ca-toronto-ttc-light-rail-parser
+	url = git://github.com/mtransitapps/ca-toronto-ttc-light-rail-parser.git
+[submodule "ca-toronto-ttc-subway-parser"]
+	path = ca-toronto-ttc-subway-parser
+	url = git://github.com/mtransitapps/ca-toronto-ttc-subway-parser.git
+[submodule "ca-vancouver-translink-bus-parser"]
+	path = ca-vancouver-translink-bus-parser
+	url = git://github.com/mtransitapps/ca-vancouver-translink-bus-parser.git
+[submodule "ca-vancouver-translink-ferry-parser"]
+	path = ca-vancouver-translink-ferry-parser
+	url = git://github.com/mtransitapps/ca-vancouver-translink-ferry-parser.git
+[submodule "ca-vancouver-translink-train-parser"]
+	path = ca-vancouver-translink-train-parser
+	url = git://github.com/mtransitapps/ca-vancouver-translink-train-parser.git
+[submodule "ca-victoria-regional-transit-system-bus-parser"]
+	path = ca-victoria-regional-transit-system-bus-parser
+	url = git://github.com/mtransitapps/ca-victoria-regional-transit-system-bus-parser.git
+[submodule "ca-west-coast-express-bus-parser"]
+	path = ca-west-coast-express-bus-parser
+	url = git://github.com/mtransitapps/ca-west-coast-express-bus-parser.git
+[submodule "ca-west-coast-express-train-parser"]
+	path = ca-west-coast-express-train-parser
+	url = git://github.com/mtransitapps/ca-west-coast-express-train-parser.git
+[submodule "ca-whistler-transit-system-bus-parser"]
+	path = ca-whistler-transit-system-bus-parser
+	url = git://github.com/mtransitapps/ca-whistler-transit-system-bus-parser.git
+[submodule "ca-winnipeg-transit-bus-parser"]
+	path = ca-winnipeg-transit-bus-parser
+	url = git://github.com/mtransitapps/ca-winnipeg-transit-bus-parser.git
+[submodule "ca-york-region-yrt-viva-bus-parser"]
+	path = ca-york-region-yrt-viva-bus-parser
+	url = git://github.com/mtransitapps/ca-york-region-yrt-viva-bus-parser.git
+
