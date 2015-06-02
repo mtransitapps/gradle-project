@@ -235,12 +235,6 @@
 [submodule "ca-deux-montagnes-mrcdm-bus-parser"]
 	path = ca-deux-montagnes-mrcdm-bus-parser
 	url = git://github.com/mtransitapps/ca-deux-montagnes-mrcdm-bus-parser.git
-[submodule "ca-edmonton-ets-bus-parser"]
-	path = ca-edmonton-ets-bus-parser
-	url = git://github.com/mtransitapps/ca-edmonton-ets-bus-parser.git
-[submodule "ca-edmonton-ets-train-parser"]
-	path = ca-edmonton-ets-train-parser
-	url = git://github.com/mtransitapps/ca-edmonton-ets-train-parser.git
 [submodule "ca-fraser-valley-express-bus-parser"]
 	path = ca-fraser-valley-express-bus-parser
 	url = git://github.com/mtransitapps/ca-fraser-valley-express-bus-parser.git
@@ -361,18 +355,12 @@
 [submodule "ca-squamish-transit-system-bus-parser"]
 	path = ca-squamish-transit-system-bus-parser
 	url = git://github.com/mtransitapps/ca-squamish-transit-system-bus-parser.git
-[submodule "ca-st-albert-transit-bus-parser"]
-	path = ca-st-albert-transit-bus-parser
-	url = git://github.com/mtransitapps/ca-st-albert-transit-bus-parser.git
 [submodule "ca-ste-julie-omitsju-bus-parser"]
 	path = ca-ste-julie-omitsju-bus-parser
 	url = git://github.com/mtransitapps/ca-ste-julie-omitsju-bus-parser.git
 [submodule "ca-st-john-s-metrobus-transit-bus-parser"]
 	path = ca-st-john-s-metrobus-transit-bus-parser
 	url = git://github.com/mtransitapps/ca-st-john-s-metrobus-transit-bus-parser.git
-[submodule "ca-strathcona-county-transit-bus-parser"]
-	path = ca-strathcona-county-transit-bus-parser
-	url = git://github.com/mtransitapps/ca-strathcona-county-transit-bus-parser.git
 [submodule "ca-sud-ouest-citso-bus-parser"]
 	path = ca-sud-ouest-citso-bus-parser
 	url = git://github.com/mtransitapps/ca-sud-ouest-citso-bus-parser.git
