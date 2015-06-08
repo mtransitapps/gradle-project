@@ -38,7 +38,7 @@
 	path = ca-grand-river-transit-bus-android
 	url = git://github.com/mtransitapps/ca-grand-river-transit-bus-android.git
 [submodule "ca-gta-up-express-train-android"]
-	path = ca-gtha-go-transit-bus-android
+	path = ca-gta-up-express-train-android
 	url = git://github.com/mtransitapps/ca-gta-up-express-train-android.git
 [submodule "ca-gtha-go-transit-bus-android"]
 	path = ca-gtha-go-transit-bus-android
