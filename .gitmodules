@@ -37,6 +37,9 @@
 [submodule "ca-grand-river-transit-bus-android"]
 	path = ca-grand-river-transit-bus-android
 	url = git://github.com/mtransitapps/ca-grand-river-transit-bus-android.git
+[submodule "ca-gta-up-express-train-android"]
+	path = ca-gtha-go-transit-bus-android
+	url = git://github.com/mtransitapps/ca-gta-up-express-train-android.git
 [submodule "ca-gtha-go-transit-bus-android"]
 	path = ca-gtha-go-transit-bus-android
 	url = git://github.com/mtransitapps/ca-gtha-go-transit-bus-android.git
@@ -199,6 +202,9 @@
 [submodule "ca-whistler-transit-system-bus-android"]
 	path = ca-whistler-transit-system-bus-android
 	url = git://github.com/mtransitapps/ca-whistler-transit-system-bus-android.git
+[submodule "ca-windsor-transit-bus-android"]
+	path = ca-windsor-transit-bus-android
+	url = git://github.com/mtransitapps/ca-windsor-transit-bus-android.git
 [submodule "ca-winnipeg-transit-bus-android"]
 	path = ca-winnipeg-transit-bus-android
 	url = git://github.com/mtransitapps/ca-winnipeg-transit-bus-android.git
