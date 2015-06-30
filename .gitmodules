@@ -160,9 +160,9 @@
 [submodule "ca-squamish-transit-system-bus-android"]
 	path = ca-squamish-transit-system-bus-android
 	url = git://github.com/mtransitapps/ca-squamish-transit-system-bus-android.git
-[submodule "ca-st-catharines-transit-system-bus-android"]
-	path = ca-st-catharines-transit-system-bus-android
-	url = git://github.com/mtransitapps/ca-st-catharines-transit-system-bus-android.git
+[submodule "ca-st-catharines-transit-bus-android"]
+	path = ca-st-catharines-transit-bus-android
+	url = git://github.com/mtransitapps/ca-st-catharines-transit-bus-android.git
 [submodule "ca-ste-julie-omitsju-bus-android"]
 	path = ca-ste-julie-omitsju-bus-android
 	url = git://github.com/mtransitapps/ca-ste-julie-omitsju-bus-android.git
