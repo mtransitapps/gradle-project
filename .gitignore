@@ -24,6 +24,7 @@ proguard/
 # Eclipse only libs
 appcompat_lib
 cardview_lib
+design_lib
 google-play-services_lib
 recyclerview_lib
 

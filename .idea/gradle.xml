@@ -9,27 +9,6 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/ca-chambly-richelieu-carignan-citcrc-bus-android" />
-            <option value="$PROJECT_DIR$/ca-deux-montagnes-mrcdm-bus-android" />
-            <option value="$PROJECT_DIR$/ca-haut-st-laurent-cithsl-bus-android" />
-            <option value="$PROJECT_DIR$/ca-l-assomption-mrclasso-bus-android" />
-            <option value="$PROJECT_DIR$/ca-la-presqu-ile-citpi-bus-android" />
-            <option value="$PROJECT_DIR$/ca-lanaudiere-crtl-bus-android" />
-            <option value="$PROJECT_DIR$/ca-laurentides-citla-bus-android" />
-            <option value="$PROJECT_DIR$/ca-laval-stl-bus-android" />
-            <option value="$PROJECT_DIR$/ca-le-richelain-citlr-bus-android" />
-            <option value="$PROJECT_DIR$/ca-les-moulins-mrclm-bus-android" />
-            <option value="$PROJECT_DIR$/ca-longueuil-rtl-bus-android" />
-            <option value="$PROJECT_DIR$/ca-montreal-amt-bus-android" />
-            <option value="$PROJECT_DIR$/ca-montreal-amt-train-android" />
-            <option value="$PROJECT_DIR$/ca-montreal-bixi-bike-android" />
-            <option value="$PROJECT_DIR$/ca-montreal-stm-bus-android" />
-            <option value="$PROJECT_DIR$/ca-montreal-stm-subway-android" />
-            <option value="$PROJECT_DIR$/ca-richelieu-citvr-bus-android" />
-            <option value="$PROJECT_DIR$/ca-roussillon-citrous-bus-android" />
-            <option value="$PROJECT_DIR$/ca-sorel-varennes-citsv-bus-android" />
-            <option value="$PROJECT_DIR$/ca-ste-julie-omitsju-bus-android" />
-            <option value="$PROJECT_DIR$/ca-sud-ouest-citso-bus-android" />
             <option value="$PROJECT_DIR$/commons-android" />
             <option value="$PROJECT_DIR$/mtransit-for-android" />
           </set>
@@ -38,4 +17,3 @@
     </option>
   </component>
 </project>
-
