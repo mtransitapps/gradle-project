@@ -1,6 +1,8 @@
 language: android
 jdk: oraclejdk7
 
+sudo: false
+
 env:
   global:
    - secure: "lMnt0yjgF8sW1SmUMHJUDTGA3KdzsrffsDlpMVn9RkNdeFIgHNxCNbRFUoAeGP7mbEPudofxiQeWnpey3WzZi/SNlfXaPKRjSHF7/tyFqTaNLQuLQc27j3P3xQvApWgmdPN9quJ/A7a1gomgWnBuMwa8KgXm9gjIrlws3S3NXSs="
