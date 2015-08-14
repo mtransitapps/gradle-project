@@ -17,7 +17,12 @@ branches:
     - master
     - mmathieum
 
+git:
+  submodules: false
+
 before_install:
+ - git submodule update --init --recursive commons-android
+ - git submodule update --init --recursive mtransit-for-android
  - chmod +x gradlew
 
 script: ./gradlew -c settings.gradle.travis build
