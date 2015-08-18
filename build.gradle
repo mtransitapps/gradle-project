@@ -3,7 +3,7 @@ buildscript {
         jcenter()
     }
     dependencies {
-        classpath 'com.android.tools.build:gradle:1.2.3'
+        classpath 'com.android.tools.build:gradle:1.3.0'
     }
 }
 
@@ -16,7 +16,21 @@ allprojects {
 ext {
     minSdkVersion = 14
     targetSdkVersion = 22
-    compileSdkVersion = 22
-    buildToolsVersion = "22.0.1"
+    compileSdkVersion = 23
+    buildToolsVersion = "23.0.0"
+    supportLibraryVersion = "23.0.0"
+    supportLibs = [
+        appCompat : "com.android.support:appcompat-v7:${supportLibraryVersion}",
+        design : "com.android.support:design:${supportLibraryVersion}",
+        supportV13 : "com.android.support:support-v13:${supportLibraryVersion}"
+    ]
+    googlePlayServicesVersion = "7.3.0"
+    gpsLibs = [
+        all : "com.google.android.gms:play-services:${googlePlayServicesVersion}",
+        ads : "com.google.android.gms:play-services-ads:${googlePlayServicesVersion}",
+        base : "com.google.android.gms:play-services-base:${googlePlayServicesVersion}",
+        location : "com.google.android.gms:play-services-location:${googlePlayServicesVersion}",
+        maps : "com.google.android.gms:play-services-maps:${googlePlayServicesVersion}"
+    ]
 }
 
