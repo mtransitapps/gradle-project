@@ -16,18 +16,19 @@ allprojects {
 ext {
     minSdkVersion = 14
     targetSdkVersion = 22
-    compileSdkVersion = 23
+    compileSdkVersion = 22
     buildToolsVersion = "23.0.0"
-    supportLibraryVersion = "23.0.0"
+    supportLibraryVersion = "22.2.1"
     supportLibs = [
         appCompat : "com.android.support:appcompat-v7:${supportLibraryVersion}",
         design : "com.android.support:design:${supportLibraryVersion}",
         supportV13 : "com.android.support:support-v13:${supportLibraryVersion}"
     ]
-    googlePlayServicesVersion = "7.3.0"
+    googlePlayServicesVersion = "7.8.0"
     gpsLibs = [
         all : "com.google.android.gms:play-services:${googlePlayServicesVersion}",
         ads : "com.google.android.gms:play-services-ads:${googlePlayServicesVersion}",
+        analytics : "com.google.android.gms:play-services-analytics:${googlePlayServicesVersion}",
         base : "com.google.android.gms:play-services-base:${googlePlayServicesVersion}",
         location : "com.google.android.gms:play-services-location:${googlePlayServicesVersion}",
         maps : "com.google.android.gms:play-services-maps:${googlePlayServicesVersion}"
