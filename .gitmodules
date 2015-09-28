@@ -37,6 +37,9 @@
 [submodule "ca-comox-valley-transit-system-bus-android"]
 	path = ca-comox-valley-transit-system-bus-android
 	url = git://github.com/mtransitapps/ca-comox-valley-transit-system-bus-android.git
+[submodule "ca-cornwall-transit-bus-android"]
+	path = ca-cornwall-transit-bus-android
+	url = git://github.com/mtransitapps/ca-cornwall-transit-bus-android.git
 [submodule "ca-deux-montagnes-mrcdm-bus-android"]
 	path = ca-deux-montagnes-mrcdm-bus-android
 	url = git://github.com/mtransitapps/ca-deux-montagnes-mrcdm-bus-android.git
@@ -52,6 +55,9 @@
 [submodule "ca-fraser-valley-express-bus-android"]
 	path = ca-fraser-valley-express-bus-android
 	url = git://github.com/mtransitapps/ca-fraser-valley-express-bus-android.git
+[submodule "ca-fredericton-transit-bus-android"]
+	path = ca-fredericton-transit-bus-android
+	url = git://github.com/mtransitapps/ca-fredericton-transit-bus-android.git
 [submodule "ca-grand-river-transit-bus-android"]
 	path = ca-grand-river-transit-bus-android
 	url = git://github.com/mtransitapps/ca-grand-river-transit-bus-android.git
@@ -121,6 +127,9 @@
 [submodule "ca-mississauga-miway-bus-android"]
 	path = ca-mississauga-miway-bus-android
 	url = git://github.com/mtransitapps/ca-mississauga-miway-bus-android.git
+[submodule "ca-moncton-codiac-transpo-bus-android"]
+	path = ca-moncton-codiac-transpo-bus-android
+	url = git://github.com/mtransitapps/ca-moncton-codiac-transpo-bus-android.git
 [submodule "ca-montreal-amt-bus-android"]
 	path = ca-montreal-amt-bus-android
 	url = git://github.com/mtransitapps/ca-montreal-amt-bus-android.git
@@ -175,6 +184,9 @@
 [submodule "ca-saskatoon-transit-bus-android"]
 	path = ca-saskatoon-transit-bus-android
 	url = git://github.com/mtransitapps/ca-saskatoon-transit-bus-android.git
+[submodule "ca-shawinigan-rtcs-bus-android"]
+	path = ca-shawinigan-rtcs-bus-android
+	url = git://github.com/mtransitapps/ca-shawinigan-rtcs-bus-android.git
 [submodule "ca-sherbrooke-sts-bus-android"]
 	path = ca-sherbrooke-sts-bus-android
 	url = git://github.com/mtransitapps/ca-sherbrooke-sts-bus-android.git
@@ -244,6 +256,9 @@
 [submodule "ca-whistler-transit-system-bus-android"]
 	path = ca-whistler-transit-system-bus-android
 	url = git://github.com/mtransitapps/ca-whistler-transit-system-bus-android.git
+[submodule "ca-whitehorse-transit-bus-android"]
+	path = ca-whitehorse-transit-bus-android
+	url = git://github.com/mtransitapps/ca-whitehorse-transit-bus-android.git
 [submodule "ca-windsor-transit-bus-android"]
 	path = ca-windsor-transit-bus-android
 	url = git://github.com/mtransitapps/ca-windsor-transit-bus-android.git
