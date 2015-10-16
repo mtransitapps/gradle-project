@@ -58,6 +58,9 @@
 [submodule "ca-fredericton-transit-bus-android"]
 	path = ca-fredericton-transit-bus-android
 	url = git://github.com/mtransitapps/ca-fredericton-transit-bus-android.git
+[submodule "ca-grande-prairie-transit-bus-android"]
+	path = ca-grande-prairie-transit-bus-android
+	url = git://github.com/mtransitapps/ca-grande-prairie-transit-bus-android.git
 [submodule "ca-grand-river-transit-bus-android"]
 	path = ca-grand-river-transit-bus-android
 	url = git://github.com/mtransitapps/ca-grand-river-transit-bus-android.git
