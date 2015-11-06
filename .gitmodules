@@ -121,9 +121,15 @@
 [submodule "ca-les-moulins-mrclm-bus-android"]
 	path = ca-les-moulins-mrclm-bus-android
 	url = git://github.com/mtransitapps/ca-les-moulins-mrclm-bus-android.git
+[submodule "ca-london-transit-bus-android"]
+	path = ca-london-transit-bus-android
+	url = git://github.com/mtransitapps/ca-london-transit-bus-android.git
 [submodule "ca-longueuil-rtl-bus-android"]
 	path = ca-longueuil-rtl-bus-android
 	url = git://github.com/mtransitapps/ca-longueuil-rtl-bus-android.git
+[submodule "ca-maritime-bus-android"]
+	path = ca-maritime-bus-android
+	url = git://github.com/mtransitapps/ca-maritime-bus-android.git
 [submodule "ca-milton-transit-bus-android"]
 	path = ca-milton-transit-bus-android
 	url = git://github.com/mtransitapps/ca-milton-transit-bus-android.git
