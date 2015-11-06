@@ -17,21 +17,17 @@ ext {
     minSdkVersion = 14
     targetSdkVersion = 22
     compileSdkVersion = 23
-    buildToolsVersion = "23.0.1"
+    buildToolsVersion = "23.0.2"
     supportLibraryVersion = "23.1.0"
     supportLibs = [
         appCompat : "com.android.support:appcompat-v7:${supportLibraryVersion}",
         design : "com.android.support:design:${supportLibraryVersion}",
         supportV13 : "com.android.support:support-v13:${supportLibraryVersion}"
     ]
-    googlePlayServicesVersion = "8.1.0"
+    googlePlayServicesVersion = "8.3.0"
     gpsLibs = [
-        all : "com.google.android.gms:play-services:${googlePlayServicesVersion}",
         ads : "com.google.android.gms:play-services-ads:${googlePlayServicesVersion}",
         analytics : "com.google.android.gms:play-services-analytics:${googlePlayServicesVersion}",
-        appindexing : "com.google.android.gms:play-services-appindexing:${googlePlayServicesVersion}",
-        base : "com.google.android.gms:play-services-base:${googlePlayServicesVersion}",
-        basement : "com.google.android.gms:play-services-basement:${googlePlayServicesVersion}",
         location : "com.google.android.gms:play-services-location:${googlePlayServicesVersion}",
         maps : "com.google.android.gms:play-services-maps:${googlePlayServicesVersion}"
     ]
