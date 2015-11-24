@@ -31,5 +31,9 @@ ext {
         location : "com.google.android.gms:play-services-location:${googlePlayServicesVersion}",
         maps : "com.google.android.gms:play-services-maps:${googlePlayServicesVersion}"
     ]
+    facebookSdkVersion = "4.8.2"
+    fbLibs = [
+        audienceNetwork : "com.facebook.android:audience-network-sdk:${facebookSdkVersion}"
+    ]
 }
 
