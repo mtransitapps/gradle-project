@@ -280,4 +280,7 @@
 [submodule "ca-york-region-yrt-viva-bus-android"]
 	path = ca-york-region-yrt-viva-bus-android
 	url = git://github.com/mtransitapps/ca-york-region-yrt-viva-bus-android.git
+[submodule "us-anchorage-people-mover-bus-android"]
+	path = us-anchorage-people-mover-bus-android
+	url = git://github.com/mtransitapps/us-anchorage-people-mover-bus-android.git
 
