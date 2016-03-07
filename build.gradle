@@ -18,7 +18,7 @@ ext {
     targetSdkVersion = 22
     compileSdkVersion = 23
     buildToolsVersion = "23.0.1"
-    supportLibraryVersion = "23.1.1"
+    supportLibraryVersion = "23.2.0"
     supportLibs = [
         appCompat : "com.android.support:appcompat-v7:${supportLibraryVersion}",
         design : "com.android.support:design:${supportLibraryVersion}",
@@ -31,7 +31,7 @@ ext {
         location : "com.google.android.gms:play-services-location:${googlePlayServicesVersion}",
         maps : "com.google.android.gms:play-services-maps:${googlePlayServicesVersion}"
     ]
-    facebookSdkVersion = "4.8.2"
+    facebookSdkVersion = "4.9.0"
     fbLibs = [
         audienceNetwork : "com.facebook.android:audience-network-sdk:${facebookSdkVersion}"
     ]
