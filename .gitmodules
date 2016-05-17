@@ -43,6 +43,9 @@
 [submodule "ca-deux-montagnes-mrcdm-bus-android"]
 	path = ca-deux-montagnes-mrcdm-bus-android
 	url = git://github.com/mtransitapps/ca-deux-montagnes-mrcdm-bus-android.git
+[submodule "ca-durham-region-transit-bus-android"]
+	path = ca-durham-region-transit-bus-android
+	url = git://github.com/mtransitapps/ca-durham-region-transit-bus-android.git
 [submodule "ca-edmonton-ets-bus-android"]
 	path = ca-edmonton-ets-bus-android
 	url = git://github.com/mtransitapps/ca-edmonton-ets-bus-android.git
