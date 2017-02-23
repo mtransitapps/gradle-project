@@ -1,24 +1,104 @@
 include ':mtransit-for-android', // main Android app
-        ':commons-android', // common code shared by all Android apps
-        ':ca-chambly-richelieu-carignan-citcrc-bus-android', // CRC (Blus) Bus for Android
-        ':ca-deux-montagnes-mrcdm-bus-android', // Deux-Montagnes MRC Bus for Android
-        ':ca-haut-st-laurent-cithsl-bus-android', // Haut-St-Laurent CIT Bus for Android
-        ':ca-joliette-ctjm-bus-android', // Joliette CTJM Bus for Android
-        ':ca-lanaudiere-crtl-bus-android', // Lanaudière CRT Bus for Android
-        ':ca-la-presqu-ile-citpi-bus-android', // La Presqu'Île CIT Bus for Android
-        ':ca-l-assomption-mrclasso-bus-android', // L'Assomption MRC Bus for Android
-        ':ca-laurentides-citla-bus-android', // Laurentides CIT Bus for Android
-        ':ca-laval-stl-bus-android', // Laval STL Bus for Android
-        ':ca-le-richelain-citlr-bus-android', // Le Richelain CIT Bus for Android
-        ':ca-les-moulins-mrclm-bus-android', // Les Moulins MRC Bus for Android
-        ':ca-longueuil-rtl-bus-android', // Longueuil RTL Bus for Android
-        ':ca-montreal-amt-bus-android', // Montreal AMT Bus for Android
-        ':ca-montreal-amt-train-android', // Montreal AMT Train for Android
-        ':ca-montreal-bixi-bike-android', // Montreal BIXI Bike for Android
-        ':ca-montreal-stm-bus-android', // Montreal STM Bus for Android
-        ':ca-montreal-stm-subway-android', // Montreal STM Subway for Android
-        ':ca-richelieu-citvr-bus-android', // Richelieu CIT Bus for Android
-        ':ca-roussillon-citrous-bus-android', // Roussillon CIT Bus for Android
-        ':ca-sorel-varennes-citsv-bus-android', // Sorel-Varennes CIT Bus for Android
-        ':ca-ste-julie-omitsju-bus-android', // Ste-Julie Bus for Android
-        ':ca-sud-ouest-citso-bus-android' // Sud-Ouest CIT Bus for Android
+        ':ca-airdrie-transit-bus-android', //
+        ':ca-banff-roam-transit-bus-android', //
+        ':ca-barrie-transit-bus-android', //
+        ':ca-brampton-transit-bus-android', //
+        ':ca-brandon-transit-bus-android', //
+        ':ca-burlington-transit-bus-android', //
+        ':ca-calgary-transit-bus-android', //
+        ':ca-calgary-transit-train-android', //
+        ':ca-central-fraser-valley-transit-system-bus-android', //
+        ':ca-chambly-richelieu-carignan-citcrc-bus-android', //
+        ':ca-chilliwack-transit-system-bus-android', //
+        ':ca-comox-valley-transit-system-bus-android', //
+        ':ca-cornwall-transit-bus-android', //
+        ':ca-deux-montagnes-mrcdm-bus-android', //
+        ':ca-durham-region-transit-bus-android', //
+        ':ca-edmonton-ets-bus-android', //
+        ':ca-edmonton-ets-train-android', //
+        ':ca-fort-erie-transit-bus-android', //
+        ':ca-fraser-valley-express-bus-android', //
+        ':ca-fredericton-transit-bus-android', //
+        ':ca-gatineau-sto-bus-android', //
+        ':ca-grande-prairie-transit-bus-android', //
+        ':ca-grand-river-transit-bus-android', //
+        ':ca-gta-up-express-train-android', //
+        ':ca-gtha-go-transit-bus-android', //
+        ':ca-gtha-go-transit-train-android', //
+        ':ca-guelph-transit-bus-android', //
+        ':ca-halifax-transit-bus-android', //
+        ':ca-halifax-transit-ferry-android', //
+        ':ca-hamilton-hsr-bus-android', //
+        ':ca-haut-st-laurent-cithsl-bus-android', //
+        ':ca-joliette-ctjm-bus-android', //
+        ':ca-kamloops-transit-system-bus-android', //
+        ':ca-kelowna-regional-transit-system-bus-android', //
+        ':ca-kingston-transit-bus-android', //
+        ':ca-lanaudiere-crtl-bus-android', //
+        ':ca-la-presqu-ile-citpi-bus-android', //
+        ':ca-l-assomption-mrclasso-bus-android', //
+        ':ca-laurentides-citla-bus-android', //
+        ':ca-laval-stl-bus-android', //
+        ':ca-le-richelain-citlr-bus-android', //
+        ':ca-les-moulins-mrclm-bus-android', //
+        ':ca-lethbridge-transit-bus-android', //
+        ':ca-london-transit-bus-android', //
+        ':ca-longueuil-rtl-bus-android', //
+        ':ca-maritime-bus-android', //
+        ':ca-milton-transit-bus-android', //
+        ':ca-mississauga-miway-bus-android', //
+        ':ca-moncton-codiac-transpo-bus-android', //
+        ':ca-montreal-amt-bus-android', //
+        ':ca-montreal-amt-train-android', //
+        ':ca-montreal-bixi-bike-android', //
+        ':ca-montreal-stm-bus-android', //
+        ':ca-montreal-stm-subway-android', //
+        ':ca-nanaimo-rdn-transit-system-bus-android', //
+        ':ca-niagara-falls-wego-bus-android', //
+        ':ca-niagara-region-transit-bus-android', //
+        ':ca-oakville-transit-bus-android', //
+        ':ca-ottawa-oc-transpo-bus-android', //
+        ':ca-ottawa-oc-transpo-train-android', //
+        ':ca-prince-george-transit-system-bus-android', //
+        ':ca-quebec-orleans-express-bus-android', //
+        ':ca-quebec-rtc-bus-android', //
+        ':ca-red-deer-transit-bus-android', //
+        ':ca-regina-transit-bus-android', //
+        ':ca-richelieu-citvr-bus-android', //
+        ':ca-roussillon-citrous-bus-android', //
+        ':ca-saskatoon-transit-bus-android', //
+        ':ca-shawinigan-rtcs-bus-android', //
+        ':ca-sherbrooke-sts-bus-android', //
+        ':ca-sorel-varennes-citsv-bus-android', //
+        ':ca-squamish-transit-system-bus-android', //
+        ':ca-st-albert-transit-bus-android', //
+        ':ca-st-catharines-transit-bus-android', //
+        ':ca-ste-julie-omitsju-bus-android', //
+        ':ca-st-john-s-metrobus-transit-bus-android', //
+        ':ca-strathcona-county-transit-bus-android', //
+        ':ca-sudbury-transit-bus-android', //
+        ':ca-sud-ouest-citso-bus-android', //
+        ':ca-thunder-bay-transit-bus-android', //
+        ':ca-toronto-share-bike-android', //
+        ':ca-toronto-ttc-bus-android', //
+        ':ca-toronto-ttc-light-rail-android', //
+        ':ca-toronto-ttc-subway-android', //
+        ':ca-vancouver-translink-bus-android', //
+        ':ca-vancouver-translink-ferry-android', //
+        ':ca-vancouver-translink-train-android', //
+        ':ca-victoria-regional-transit-system-bus-android', //
+        ':ca-welland-transit-bus-android', //
+        ':ca-west-coast-express-bus-android', //
+        ':ca-west-coast-express-train-android', //
+        ':ca-whistler-transit-system-bus-android', //
+        ':ca-whitehorse-transit-bus-android', //
+        ':ca-windsor-transit-bus-android', //
+        ':ca-winnipeg-transit-bus-android', //
+        ':ca-york-region-yrt-viva-bus-android', //
+        ':us-anchorage-people-mover-bus-android', //
+        ':us-clark-county-c-tran-bus-android', //
+        ':us-everett-transit-bus-android', //
+        ':us-longview-rivercities-transit-bus-android', //
+        ':us-snohomish-county-community-transit-bus-android', //
+        ':us-washington-state-ferry-android', //
+        ':commons-android' // common code shared by all Android apps
