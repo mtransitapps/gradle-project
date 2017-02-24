@@ -1,3 +1,7 @@
+machine:
+    java:
+        version: oraclejdk7
+
 checkout:
   post:
     - git submodule update --init --recursive commons-android
