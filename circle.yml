@@ -1,0 +1,9 @@
+checkout:
+  post:
+    - git submodule update --init --recursive commons-android
+    - git submodule update --init --recursive mtransit-for-android
+
+dependencies:
+    override:
+        - chmod +x gradlew
+        - ./gradlew dependencies
