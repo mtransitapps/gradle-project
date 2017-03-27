@@ -127,6 +127,9 @@
 [submodule "ca-les-moulins-mrclm-bus-android"]
 	path = ca-les-moulins-mrclm-bus-android
 	url = git://github.com/mtransitapps/ca-les-moulins-mrclm-bus-android.git
+[submodule "ca-lethbridge-transit-bus-android"]
+	path = ca-lethbridge-transit-bus-android
+	url = git://github.com/mtransitapps/ca-lethbridge-transit-bus-android.git
 [submodule "ca-london-transit-bus-android"]
 	path = ca-london-transit-bus-android
 	url = git://github.com/mtransitapps/ca-london-transit-bus-android.git
