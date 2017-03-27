@@ -4,6 +4,9 @@
 [submodule "mtransit-for-android"]
 	path = mtransit-for-android
 	url = git://github.com/mtransitapps/mtransit-for-android.git
+[submodule "ca-airdrie-transit-bus-android"]
+	path = ca-airdrie-transit-bus-android
+	url = git://github.com/mtransitapps/ca-airdrie-transit-bus-android.git
 [submodule "ca-banff-roam-transit-bus-android"]
 	path = ca-banff-roam-transit-bus-android
 	url = git://github.com/mtransitapps/ca-banff-roam-transit-bus-android.git
