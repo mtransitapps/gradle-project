@@ -7,16 +7,19 @@ include ':mtransit-for-android', // main Android app
         ':ca-burlington-transit-bus-android', //
         ':ca-calgary-transit-bus-android', //
         ':ca-calgary-transit-train-android', //
+        ':ca-campbell-river-transit-system-bus-android', //
         ':ca-central-fraser-valley-transit-system-bus-android', //
         ':ca-chambly-richelieu-carignan-citcrc-bus-android', //
         ':ca-chilliwack-transit-system-bus-android', //
         ':ca-comox-valley-transit-system-bus-android', //
         ':ca-cornwall-transit-bus-android', //
+        ':ca-dawson-creek-transit-system-bus-android', //
         ':ca-deux-montagnes-mrcdm-bus-android', //
         ':ca-durham-region-transit-bus-android', //
         ':ca-edmonton-ets-bus-android', //
         ':ca-edmonton-ets-train-android', //
         ':ca-fort-erie-transit-bus-android', //
+        ':ca-fort-st-john-transit-system-bus-android', //
         ':ca-fraser-valley-express-bus-android', //
         ':ca-fredericton-transit-bus-android', //
         ':ca-gatineau-sto-bus-android', //
@@ -42,6 +45,7 @@ include ':mtransit-for-android', // main Android app
         ':ca-le-richelain-citlr-bus-android', //
         ':ca-les-moulins-mrclm-bus-android', //
         ':ca-lethbridge-transit-bus-android', //
+        ':ca-levis-stl-bus-android', //
         ':ca-london-transit-bus-android', //
         ':ca-longueuil-rtl-bus-android', //
         ':ca-maritime-bus-android', //
@@ -78,15 +82,18 @@ include ':mtransit-for-android', // main Android app
         ':ca-strathcona-county-transit-bus-android', //
         ':ca-sudbury-transit-bus-android', //
         ':ca-sud-ouest-citso-bus-android', //
+        ':ca-sunshine-coast-regional-transit-system-bus-android', //
         ':ca-thunder-bay-transit-bus-android', //
         ':ca-toronto-share-bike-android', //
         ':ca-toronto-ttc-bus-android', //
         ':ca-toronto-ttc-light-rail-android', //
         ':ca-toronto-ttc-subway-android', //
+        ':ca-vancouver-mobi-bike-android', //
         ':ca-vancouver-translink-bus-android', //
         ':ca-vancouver-translink-ferry-android', //
         ':ca-vancouver-translink-train-android', //
         ':ca-victoria-regional-transit-system-bus-android', //
+        ':ca-vernon-transit-system-bus-android', //
         ':ca-welland-transit-bus-android', //
         ':ca-west-coast-express-bus-android', //
         ':ca-west-coast-express-train-android', //
@@ -98,6 +105,7 @@ include ':mtransit-for-android', // main Android app
         ':us-anchorage-people-mover-bus-android', //
         ':us-clark-county-c-tran-bus-android', //
         ':us-everett-transit-bus-android', //
+        ':us-juneau-capital-transit-bus-android', //
         ':us-longview-rivercities-transit-bus-android', //
         ':us-snohomish-county-community-transit-bus-android', //
         ':us-washington-state-ferry-android', //
