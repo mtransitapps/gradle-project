@@ -1,0 +1,31 @@
+version: 2
+jobs:
+  build:
+    working_directory: ~/mtransit
+    docker:
+      - image: circleci/android:api-27-alpha
+    environment:
+      JVM_OPTS: -Xmx3200m
+    steps:
+      - run:
+          name: Update SDK
+          command: echo y | $ANDROID_HOME/tools/bin/sdkmanager "build-tools;27.0.3" "platform-tools" "platforms;android-27"
+      - checkout
+      - run:
+          name: Checkout commons-android submodules
+          command: git submodule update --init --recursive commons-android
+      - run:
+          name: Checkout mtransit-for-android submodules
+          command: git submodule update --init --recursive mtransit-for-android
+      - restore_cache:
+          key: jars-{{ checksum "build.gradle" }}-{{ checksum "commons-android/build.gradle" }}-{{ checksum "commons-android/commons-android.gradle" }}-{{ checksum "mtransit-for-android/build.gradle" }}
+      - run:
+          name: Chmod permissions
+          command: sudo chmod +x ./gradlew
+      - run:
+          name: Download Dependencies
+          command: ./gradlew androidDependencies
+      - save_cache:
+          paths:
+            - ~/.gradle
+          key: jars-{{ checksum "build.gradle" }}-{{ checksum "commons-android/build.gradle" }}-{{ checksum "commons-android/commons-android.gradle" }}-{{ checksum "mtransit-for-android/build.gradle" }}
